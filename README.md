@@ -1,0 +1,3 @@
+Demo Project LoadTestingWithJMeter
+
+This project serves as a foundational guide for conducting load testing using Apache JMeter, a powerful open-source tool widely used for performance testing of web applications and services. By following this project, you will learn how to simulate real-world user scenarios, stress-test your applications under varying loads, and analyze the performance metrics to identify potential bottlenecks. Whether you're a beginner looking to understand the basics of load testing or an experienced tester aiming to refine your skills, this project provides a comprehensive approach to mastering load testing with JMeter.
